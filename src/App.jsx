@@ -212,9 +212,7 @@ const App = () => {
                                 </div>
                             )}
 
-                            <div className="hint-text">
-                                {windowWidth <= 480 ? "reject → accept grows" : "click Reject → Accept grows bigger"}
-                            </div>
+
                         </div>
                     </div>
                 )}
