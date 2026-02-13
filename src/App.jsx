@@ -267,7 +267,7 @@ const App = () => {
                             </h2>
 
                             <div className="love-message">
-                                <p>{windowWidth <= 480 ? "my love, my panta" : "my love, my panta, my Gauri,"}</p>
+                                <p>{windowWidth <= 480 ? "my love, my panda" : "my love, my panta, my Gauri,"}</p>
                                 <p>{windowWidth <= 480 ? "my strength ❤️" : "my strength, my power, my heart"}</p>
                                 <div className="heart-decoration">❤️</div>
                             </div>
